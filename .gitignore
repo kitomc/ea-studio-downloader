@@ -1,0 +1,7 @@
+downloads/
+*.py
+!requirements.txt
+__pycache__/
+*.pyc
+.env
+cookies.json
